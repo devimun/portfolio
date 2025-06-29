@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728518331859",
+    "project_id": "unumbers-bbac2",
+    "storage_bucket": "unumbers-bbac2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728518331859:android:f34cc6e7bdb804980bf326",
+        "android_client_info": {
+          "package_name": "com.example.unumbers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJ3RE5lk6RqDWBMHcdqiGBgdVVm0roxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

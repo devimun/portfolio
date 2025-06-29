@@ -1,0 +1,2 @@
+C:/Users/user/Desktop/DEV/outsourcing-unumbers/unumbers/android/app/.cxx/RelWithDebInfo/4h632e4b/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/DEV/outsourcing-unumbers/unumbers/android/app/.cxx/RelWithDebInfo/4h632e4b/armeabi-v7a/CMakeFiles/rebuild_cache.dir

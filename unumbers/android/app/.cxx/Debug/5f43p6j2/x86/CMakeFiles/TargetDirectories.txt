@@ -1,0 +1,2 @@
+C:/Users/rladu/Desktop/outsourcing-unumbers/unumbers/android/app/.cxx/Debug/5f43p6j2/x86/CMakeFiles/edit_cache.dir
+C:/Users/rladu/Desktop/outsourcing-unumbers/unumbers/android/app/.cxx/Debug/5f43p6j2/x86/CMakeFiles/rebuild_cache.dir
