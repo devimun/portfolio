@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>345609036100-2900umhcimpvk6a48uqvmp893q70queu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.345609036100-2900umhcimpvk6a48uqvmp893q70queu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>345609036100-0jv9liltba334gs5d4c1m1p7hm6g1pop.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtU0a8kpkogsgPBtqW7oxylU8fFSR_j-M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>345609036100</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cosmoFriends.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cosmo-friends</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cosmo-friends.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:345609036100:ios:4ca7c7edff437e3c6df711</string>
+</dict>
+</plist>

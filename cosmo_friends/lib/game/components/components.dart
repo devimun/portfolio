@@ -1,0 +1,10 @@
+export 'background.dart';
+export 'alien/alien.dart';
+export 'alien/animation_data.dart';
+export 'alien/animation_model.dart';
+export 'player/player.dart';
+export 'player/animation_data.dart';
+export 'player/animation_model.dart';
+export './config/enum.dart';
+export './config/base_animation_model.dart';
+export './config/function.dart';

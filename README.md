@@ -52,7 +52,7 @@ Google Play와 App Store에 정식 출시되었습니다.
 
 ### 🛠 프로젝트 자료
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname/devimun/tree/main/cosmo-friends)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devimun/portfolio/tree/main/cosmo_friends)
 [![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ulzCZLUCAkTfY7gBnzLJzJ/Cosmo-Freinds?node-id=46-2&t=Cz0FfW4t4v8H20tu-1)
 
 ---
@@ -73,7 +73,7 @@ Android 앱과 Windows 데스크탑 앱으로 구성되어 있으며, 여러 사
 
 ### 🛠 프로젝트 자료
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname/devimun/tree/main/unumbers)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devimun/portfolio/tree/main/unumbers)
 
 ---
 
@@ -94,7 +94,7 @@ Figma AI, Cursor, MCP 서버 등을 활용해 바이브 코딩 방식으로 구�
 
 ### 🛠 프로젝트 자료
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname/devimun/tree/main/sqld_study)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devimun/portfolio/tree/main/sqld_study)
 
 <br><br><br>
 

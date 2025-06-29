@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "345609036100",
+    "project_id": "cosmo-friends",
+    "storage_bucket": "cosmo-friends.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345609036100:android:098d94fca88d229b6df711",
+        "android_client_info": {
+          "package_name": "com.goodday.cosmo_friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345609036100-8ji9o09d4qmcnl11ggunr8nc6cqaotcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodday.cosmo_friends",
+            "certificate_hash": "b90b1dc64ceeb64bb18e6f21b89c4593fefc1b7e"
+          }
+        },
+        {
+          "client_id": "345609036100-ok3pobif37ldfc37lj35stmeh7agt635.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodday.cosmo_friends",
+            "certificate_hash": "c92eb3f41e2eca8c1df0594b5bcf9590257921ac"
+          }
+        },
+        {
+          "client_id": "345609036100-u6ua4qqsg1geqaae0er9b2fon4aip4ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodday.cosmo_friends",
+            "certificate_hash": "3b30d15735910a676a42bc163f45d81f6844da48"
+          }
+        },
+        {
+          "client_id": "345609036100-2gh5dv43kbhn17k3ucr50lqagnjg0ohs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdvo4mM3cJkgnUKQKmybU5Zrtp7AymgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345609036100-2gh5dv43kbhn17k3ucr50lqagnjg0ohs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345609036100-ir3bdq1rp42r798fs3hhi0n0on1q0ckj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cosmoFriends"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4769455621618933~7826966898"
+    }
+  ],
+  "configuration_version": "1"
+}
