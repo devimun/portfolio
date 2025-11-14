@@ -16,6 +16,10 @@
 
 # Cosmo Friends
 
+<p>
+  <img src="../assets/cosmo-friends.gif" width="240"/>
+</p>
+
 Flutter의 Flame 엔진을 기반으로 제작한 2D 캐주얼 게임입니다.
 우주에서 외계인이 플레이어를 추격하는 설정으로, 플레이어는 무작위로 조합된 커맨드키를 올바르게 입력해 외계인의 추격을 따돌리는 것이 목표입니다.
 
